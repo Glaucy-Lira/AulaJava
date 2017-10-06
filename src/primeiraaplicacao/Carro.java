@@ -7,7 +7,7 @@ package primeiraaplicacao;
 
 /**
  *
- * @author Matheus Santos
+ * @author Glaucyany Lira
  */
 public class Carro {
     
